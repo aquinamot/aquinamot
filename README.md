@@ -1,10 +1,10 @@
-### HELLO WORLD! I'm Bruno Lopes
-
+### print("HELLO WORLD!") I'm Bruno Lopes,    
+“ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME THAT IS GIVEN US.”  - Gandalf 🧙‍♂️ 
+  <!---
 - 🔭 I’m currently working as Cloud Administrator and System Admin
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+--->
 
 <div align="center">
   <a href="https://github.com/aquinamot">
@@ -30,3 +30,8 @@
 </div>
   
   ##
+<div>
+  <a href="https://www.linkedin.com/in/bslopes1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ <!--- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --->
+ </div>
