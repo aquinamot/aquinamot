@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/aquinamot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aquinamot&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinamot&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aquinamot&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinamot&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,10 +28,17 @@
 <img align="right" alt="BLOPES-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   --->
 </div>
+
+  ##
+ <div>
+  <a href="https://www.credly.com/badges/96dc21d4-b4fb-4a14-8368-7139a03f66d2/linked_in" target="_blank"><img height="150" width="150" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" target="_blank"></a> 
+  <a href="https://www.credly.com/badges/955feee1-2850-47b8-a3e0-8228bbe3b964/linked_in" target="_blank"><img height="150" width="150" src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" target="_blank"></a>
+</div> 
   
   ##
 <div>
   <a href="https://www.linkedin.com/in/bslopes1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
   
  <!--- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --->
  </div>
